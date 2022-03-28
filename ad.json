@@ -1,0 +1,19 @@
+{
+    "AdsSettings":{
+      "facebookNativeAdId":"",
+      "facebookBannerAdId":"",
+      "facebookInterstitialAdId":"",
+      "admobBannerAdId":["ca-app-pub-3940256099942544/6300978111"],
+      "admobNativeAdId":["ca-app-pub-3940256099942544/2247696110"],
+      "admobInterstitialAdId":["ca-app-pub-3940256099942544/1033173712"],
+      "admobRewardedAdId":["ca-app-pub-3940256099942544/5224354917"],
+      "unityGameId":"456876",
+      "unityInterstitialAdId":"Interstitial_Android",
+      "unityRewardedAdId":"Rewarded_Android",
+      "unityBannerAdId":"Banner_Android",
+      "adsBannerStack":["admob"],
+      "adsRewardStack":["admob"],
+      "adsInterstitialStack":["admob"],
+      "adsNativeStack":["admob"]
+   }
+}
